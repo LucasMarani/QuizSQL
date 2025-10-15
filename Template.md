@@ -1,16 +1,14 @@
 ---
-title: "Nome do projeto"
+title: "QuizSQL"
 draft: false
 language: pt-br
 featured_image: images/featured/featured-img-placeholder.png 
 summary: Sumário de seu projeto
 author: Unifil
 categories: Blog
-tags: ["CC", "ES", "ADS", "IA", "Educação", "Tecnologia", "Ciência", "Saúde", "Cultura", "Entretenimento"] 
-linkandroid: link  de download do aplicativo em android
-linkios: link de download aplicativo em ios
-linkweb: link de acesso de aplicativo web
-linkblog: Link do blog
+tags: ["CC", "ES", "ADS", "IA", "Educação", "Tecnologia", "Quiz", "Entretenimento"] 
+linkweb: [QuizSQL](http://137.131.194.122/)
+linkblog: [https://quizsql.blogspot.com/](https://quizsql.blogspot.com/)
 linkvideo: Link do video
 
 ---
@@ -261,4 +259,5 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+
 
