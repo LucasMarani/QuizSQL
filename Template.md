@@ -7,8 +7,8 @@ summary: Sumário de seu projeto
 author: Unifil
 categories: Blog
 tags: ["CC", "ES", "ADS", "IA", "Educação", "Tecnologia", "Quiz", "Entretenimento"] 
-linkweb: [QuizSQL](http://137.131.194.122/)
-linkblog: [https://quizsql.blogspot.com/](https://quizsql.blogspot.com/)
+linkweb: http://137.131.194.122/
+linkblog: https://quizsql.blogspot.com/
 linkvideo: Link do video
 
 ---
@@ -259,5 +259,6 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+
 
 
