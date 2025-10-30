@@ -1,26 +1,18 @@
 ---
 title: "QuizSQL"
+summary: O QuizSQL é um aplicativo interativo desenvolvido para testar e aprimorar seus conhecimentos em SQL e bancos de dados relacionais. Ideal para estudantes e profissionais de tecnologia que desejam reforçar o aprendizado de forma prática e divertida.
+featured_image: images/featured/quizsql.png
+
+date: 2025-10-30
+important: 1
 draft: false
 language: pt-br
-featured_image: images/featured/featured-img-placeholder.png 
-summary: Sumário de seu projeto
 author: Unifil
 categories: Blog
-tags: ["CC", "ES", "ADS", "IA", "Educação", "Tecnologia", "Quiz", "Entretenimento"] 
+tags: ["CC", "ES", "ADS", "BD", "SQL", "Educação", "Tecnologia", "Quiz"]
 linkweb: http://137.131.194.122/
 linkblog: https://quizsql.blogspot.com/
 linkvideo: Link do video
-
----
-
-__Advertisement :smile:__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
 
 ---
 
@@ -48,12 +40,12 @@ Seu principal objetivo é oferecer uma maneira prática e gamificada de consolid
 
 O **QuizSQL** é uma excelente ferramenta para:
 - Reforçar o conteúdo aprendido em aulas de Banco de Dados.
-- Preparar estudantes para provas, entrevistas e certificações.
 - Desenvolver a prática de escrita e interpretação de comandos SQL em situações reais.
 
 ## Conclusão
 
 Com o **QuizSQL**, aprender SQL se torna uma experiência envolvente e interativa.  
 Desafie-se, melhore suas habilidades e domine os conceitos fundamentais de banco de dados de forma divertida e eficaz!
+
 
 
